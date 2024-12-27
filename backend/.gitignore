@@ -1,0 +1,5 @@
+backend/package-lock.json
+backend/package.json
+backend/src/db/index.js
+docker-compose.yml
+frontend/src/routes/+page.svelte
