@@ -36,7 +36,7 @@ router.get("/:id", async (req, res) => {
     res.json(user.rows[0]);
   } catch (err) {
     handleErrors(res, err);
-  }
+  }    
 });
 
 // Yeni Kullanıcı Ekle
